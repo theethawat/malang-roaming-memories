@@ -14,7 +14,7 @@
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 24 83% 53%;
+    --primary: 174 100% 42%;
     --primary-foreground: 210 40% 98%;
 
     --secondary: 210 40% 96.1%;
@@ -120,7 +120,7 @@
 }
 
 .gradient-text {
-  background: linear-gradient(135deg, #f59e0b, #ea580c);
+  background: linear-gradient(135deg, oklch(59.6% 0.145 163.225), oklch(71.5% 0.143 215.221));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
