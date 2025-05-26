@@ -18,16 +18,18 @@
     },
     {
       "id": "2",
-      "title": "Beach Coding Sessions",
-      "location": "Songkhla Beach",
-      "date": "2021-07-22",
-      "description": "Those magical evenings coding by the beach, with Malang's screen reflecting the sunset. Working on my first major project while listening to the waves.",
-      "image": "photo-1500375592092-40eb2168fd21",
+      "title": "Together at Hatyai",
+      "location": "Hatyai, Songkhla",
+      "date": "2021-02-26",
+      "description": "แมลงถูกพาออกมาจากร้าน IT City ที่เซนทรัลหาดใหญ่ และได้มาอยู่ร่วมกันตั้งแต่นั้นเป็นต้นมา เป็นจุดเริ่มต้นของการเดินทางที่ตื่นเต้นมากมาย",
+      "image": "20210826_222017.jpg",
+      "anotherImages": [
+        "20210916_225658.jpg",
+        "20210829_081652.jpg"
+      ],
       "tags": [
         "coding",
-        "beach",
-        "sunset",
-        "projects"
+        "welcome"
       ],
       "coordinates": {
         "lat": 7.1756,
@@ -36,16 +38,15 @@
     },
     {
       "id": "3",
-      "title": "Mountain Retreat Coding",
-      "location": "Doi Suthep, Chiang Mai",
-      "date": "2022-01-10",
+      "title": "ลงงานกระบี่ด้วยกัน",
+      "location": "Krabi, Thailand",
+      "date": "2021-08-06",
       "description": "Taking Malang to the mountains for a coding retreat. The cool air and stunning views provided the perfect environment for deep focus and breakthrough moments.",
-      "image": "photo-1469474968028-56623f02e42e",
+      "image": "IMG_20210806_012914_684.jpg",
       "tags": [
-        "mountains",
-        "retreat",
-        "chiangmai",
-        "focus"
+        "krabi",
+        "on-car",
+        "coding"
       ],
       "coordinates": {
         "lat": 18.8047,

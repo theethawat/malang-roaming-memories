@@ -70,7 +70,7 @@ const Timeline = () => {
                       src={
                         memory.image?.startsWith("https://")
                           ? memory?.image
-                          : `https://images.unsplash.com/${memory.image}?w=400&h=250&fit=crop`
+                          : `https://tdckhawtang.blob.core.windows.net/malang/${memory.image}`
                       }
                       alt={memory.title}
                       className='w-full h-32 object-cover rounded-lg'

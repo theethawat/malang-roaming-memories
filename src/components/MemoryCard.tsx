@@ -29,7 +29,7 @@ const MemoryCard = ({ memory, onClick }: MemoryCardProps) => {
           src={
             memory.image?.includes("https://")
               ? memory?.image
-              : `https://images.unsplash.com/${memory.image}?w=800&h=600&fit=crop`
+              : `https://tdckhawtang.blob.core.windows.net/malang/${memory.image}`
           }
           alt={memory.title}
           className='w-full h-64 object-cover transition-transform duration-300 group-hover:scale-110'
